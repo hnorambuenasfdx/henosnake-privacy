@@ -36,5 +36,5 @@ Eliminar todos los datos desinstalando la App.
 Si cambia esta política, se publicará una nueva versión en esta misma URL. Los cambios sustanciales se comunicarán a través de una actualización de la App.
 8. Contacto
 Para consultas sobre privacidad:
-Email: hector.norambuena.o@gmail.com
+Email: hnorambuena@me.com
 ***Esta política cumple con los requisitos de la App Store Review Guidelines (sección 5.1) y el Reglamento General de Protección de Datos (GDPR — UE).
